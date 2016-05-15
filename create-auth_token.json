@@ -1,0 +1,6 @@
+{
+  "scopes": [
+    "write:public_key"
+  ],
+  "note": "Add public key for machine "
+}
